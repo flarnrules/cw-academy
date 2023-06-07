@@ -37,4 +37,10 @@ First we need some smart contract examples
 
 - I ran that on the cw-whitelist that I cloned from the cw-plus repo, and the check passed.
 
+- Note - I cannot commit to the cw-plus repo that I cloned, because that's pulling down the repo from the CosmWasm org.
+
+- I need to make a copy if I want to have my own version of these smart contracts.
+
+- Git continues to be cofusing to me....
+
 That's the end of the first lesson!
